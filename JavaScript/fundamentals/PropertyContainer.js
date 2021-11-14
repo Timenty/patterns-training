@@ -5,6 +5,7 @@
 
     т.е мы можем добавлять динамически новые поля в наш существующий объект
 */
+
 class PropertyContainer {
 
     #propertyContainer = {};
